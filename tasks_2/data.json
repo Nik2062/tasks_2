@@ -1,0 +1,68 @@
+{
+  "TE100-S5": {
+    "product Title": "5-Port 10/100Mbps Fast Ethernet Switch",
+    "10/100Mbps": "5x",
+    "Forwarding capacity": "1Gbps",
+    "Data buffering": "394kbytes",
+    "902.3 flow control": "yes",
+    "MAC address": "2k",
+    "enclous materials": "plastic",
+    "greennet": "-",
+    "warranty": "3 years limited"
+  },
+  "TE100-SB": {
+    "product Title": "9-Port 10/100Mbps Fast Ethernet Switch",
+    "10/100Mbps": "8x",
+    "Forwarding capacity": "1.6Gbps",
+    "Data buffering": "512kbytes",
+    "902.3 flow control": "yes",
+    "MAC address": "2k",
+    "enclous materials": "plastic",
+    "greennet": "yes",
+    "warranty": "3 years limited"
+  },
+  "TE100-S50g": {
+    "product Title": "5-Port 10/100Mbps GREENnet Switch Switch",
+    "10/100Mbps": "5x",
+    "Forwarding capacity": "1Gbps",
+    "Data buffering": "384kbytes",
+    "902.3 flow control": "yes",
+    "MAC address": "1k",
+    "enclous materials": "Metal Desktop",
+    "greennet": "yes",
+    "warranty": "3 years limited"
+  },
+  "TE100-s580g": {
+    "product Title": "9-Port 10/100Mbps GREENnet Switch",
+    "10/100Mbps": "8x",
+    "Forwarding capacity": "1.6Gbps",
+    "Data buffering": "768kbytes",
+    "902.3 flow control": "yes",
+    "MAC address": "1k",
+    "enclous materials": "Metal Desktop",
+    "greennet": "yes",
+    "warranty": "3 years limited"
+  },
+  "TE100-s516g": {
+    "product Title": "16-Port 10/100Mbps GREENnet Switch",
+    "10/100Mbps": "16x",
+    "Forwarding capacity": "3.2Gbps",
+    "Data buffering": "1.25Mbits",
+    "902.3 flow control": "yes",
+    "MAC address": "8k",
+    "enclous materials": "Metal Desktop",
+    "greennet": "yes",
+    "warranty": "3 years limited"
+  },
+  "TE100-s24g": {
+    "product Title": "24-Port 10/100Mbps GREENnet Switch",
+    "10/100Mbps": "24x",
+    "Forwarding capacity": "4.8Gbps",
+    "Data buffering": "1.25Mbits",
+    "902.3 flow control": "yes",
+    "MAC address": "8k",
+    "enclous materials": "Metal Desktop",
+    "greennet": "yes",
+    "warranty": "3 years limited"
+  }
+}
